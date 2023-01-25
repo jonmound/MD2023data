@@ -1,0 +1,8 @@
+# Dynamo parameters and overall compliance scores
+# Ra, q*, Elssaser, Magnetic Reynolds, Rossby, Magnetic to Kinetic Energy, field chi-squared, SV chi-squared
+2000   ,  0.0  , 34 , 889  , 0.018 , 2.2 , 2.12 , 3.79
+2000   ,  2.3  , 39 , 851  , 0.017 , 2.7 , 5.39 , 4.24
+2000   ,  5.0  , 50 , 830  , 0.017 , 3.4 , 14.51 , 4.11 
+6000   ,  0.0  , 26 , 1848 , 0.037 , 0.37 , 60.14 , 3.94
+6000   ,  2.3  , 43 , 1608 , 0.032 , 0.84 , 1.05 , 2.88
+6000   ,  5.0  , 62 , 1483 , 0.030 , 1.4 , 3.30 , 3.88
