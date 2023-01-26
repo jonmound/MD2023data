@@ -15,4 +15,4 @@ Extended Data Tables = the 2 data tables from the publication
 
 Flow = data to reproduce maps of radial and horizontal flow near the top of the outer core
 
-PSV = data on the PSV index at geopgraphic locations through time (under construction)
+PSV = data on the PSV index at geopgraphic locations through time
